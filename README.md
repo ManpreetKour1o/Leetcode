@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManpreetKour1o/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ManpreetKour1o/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ManpreetKour1o/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ManpreetKour1o/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
@@ -27,6 +29,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ManpreetKour1o/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ManpreetKour1o/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
