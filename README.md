@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ManpreetKour1o/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ManpreetKour1o/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ManpreetKour1o/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ManpreetKour1o/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ManpreetKour1o/Leetcode/tree/master/0075-sort-colors) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0053-maximum-subarray) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManpreetKour1o/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManpreetKour1o/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ManpreetKour1o/Leetcode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
