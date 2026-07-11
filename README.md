@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ManpreetKour1o/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ManpreetKour1o/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ManpreetKour1o/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManpreetKour1o/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ManpreetKour1o/Leetcode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManpreetKour1o/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManpreetKour1o/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ManpreetKour1o/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/ManpreetKour1o/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ManpreetKour1o/Leetcode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ManpreetKour1o/Leetcode/tree/master/0022-generate-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
