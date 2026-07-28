@@ -281,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ManpreetKour1o/Leetcode/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/ManpreetKour1o/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
