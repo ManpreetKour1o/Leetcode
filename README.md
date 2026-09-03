@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ManpreetKour1o/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ManpreetKour1o/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManpreetKour1o/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ManpreetKour1o/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/ManpreetKour1o/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/0877-stone-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ManpreetKour1o/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/ManpreetKour1o/Leetcode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ManpreetKour1o/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ManpreetKour1o/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/ManpreetKour1o/Leetcode/tree/master/0089-gray-code) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
