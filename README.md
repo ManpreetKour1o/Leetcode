@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ManpreetKour1o/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ManpreetKour1o/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManpreetKour1o/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/ManpreetKour1o/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ManpreetKour1o/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ManpreetKour1o/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ManpreetKour1o/Leetcode/tree/master/0290-word-pattern) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ManpreetKour1o/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ManpreetKour1o/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ManpreetKour1o/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/ManpreetKour1o/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ManpreetKour1o/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ManpreetKour1o/Leetcode/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManpreetKour1o/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
