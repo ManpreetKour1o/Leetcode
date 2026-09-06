@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ManpreetKour1o/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ManpreetKour1o/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManpreetKour1o/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2485-find-the-pivot-integer](https://github.com/ManpreetKour1o/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ManpreetKour1o/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/0877-stone-game) |
+| [2485-find-the-pivot-integer](https://github.com/ManpreetKour1o/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManpreetKour1o/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
