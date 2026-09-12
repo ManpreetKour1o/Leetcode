@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ManpreetKour1o/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManpreetKour1o/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ManpreetKour1o/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/ManpreetKour1o/Leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ManpreetKour1o/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ManpreetKour1o/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/ManpreetKour1o/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0412-fizz-buzz](https://github.com/ManpreetKour1o/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/0877-stone-game) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ManpreetKour1o/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ManpreetKour1o/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/ManpreetKour1o/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
