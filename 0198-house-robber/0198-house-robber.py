@@ -8,3 +8,4 @@ class Solution:
             rob2=curr
         return rob2
         
+        
