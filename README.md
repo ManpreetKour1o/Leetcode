@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ManpreetKour1o/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/ManpreetKour1o/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManpreetKour1o/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ManpreetKour1o/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManpreetKour1o/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -364,4 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ManpreetKour1o/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
