@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ManpreetKour1o/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ManpreetKour1o/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/ManpreetKour1o/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0263-ugly-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/ManpreetKour1o/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ManpreetKour1o/Leetcode/tree/master/0523-continuous-subarray-sum) |
