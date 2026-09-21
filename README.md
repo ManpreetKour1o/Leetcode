@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ManpreetKour1o/Leetcode/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ManpreetKour1o/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/ManpreetKour1o/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2652-sum-multiples](https://github.com/ManpreetKour1o/Leetcode/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManpreetKour1o/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
