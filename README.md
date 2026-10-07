@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ManpreetKour1o/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ManpreetKour1o/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/ManpreetKour1o/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/ManpreetKour1o/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/ManpreetKour1o/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManpreetKour1o/Leetcode/tree/master/0415-add-strings) |
@@ -324,11 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ManpreetKour1o/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ManpreetKour1o/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ManpreetKour1o/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ManpreetKour1o/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ManpreetKour1o/Leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ManpreetKour1o/Leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManpreetKour1o/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
