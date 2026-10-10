@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ManpreetKour1o/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ManpreetKour1o/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/ManpreetKour1o/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/ManpreetKour1o/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ManpreetKour1o/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/ManpreetKour1o/Leetcode/tree/master/0412-fizz-buzz) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ManpreetKour1o/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ManpreetKour1o/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ManpreetKour1o/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ManpreetKour1o/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ManpreetKour1o/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ManpreetKour1o/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ManpreetKour1o/Leetcode/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/ManpreetKour1o/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ManpreetKour1o/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
