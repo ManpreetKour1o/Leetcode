@@ -8,3 +8,4 @@ class Solution:
             if freq[a[i]]==1:
                 return i
         return -1
+        
